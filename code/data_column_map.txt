@@ -1,0 +1,4 @@
+Division, DOCUMENT_FOLDER
+Application / System, System Name
+Department, Department
+Function, Business Function
